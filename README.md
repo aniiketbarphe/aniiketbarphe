@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aniiketbarphe@yahoo.com**
 
-- 📄 Know about my experiences [file:///E:/Aniket_Barphe_CV/06-APRIL-2024/Aniket_Barphe_CV.pdf](file:///E:/Aniket_Barphe_CV/06-APRIL-2024/Aniket_Barphe_CV.pdf)
+- 📄 Know about my experiences [https://github.com/aniiketbarphe/Aniiket_Ready_Reference/blob/main/Aniket_Barphe_CV.pdf](https://github.com/aniiketbarphe/Aniiket_Ready_Reference/blob/main/Aniket_Barphe_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
