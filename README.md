@@ -1,3 +1,5 @@
+![Aniiket-Barphe-Github-Header-Image](https://github.com/aniiketbarphe/aniiketbarphe/assets/84449238/30b35797-da85-4de9-8164-55c0189610b6)
+
 <h1 align="center">Hi 👋, I'm Aniiket Barphe</h1>
 <h3 align="center">An experienced Data Scientist with a passion for creating impactful solutions through machine learning and analytics.</h3>
 
