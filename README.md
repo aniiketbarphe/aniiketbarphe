@@ -48,14 +48,12 @@ I’m passionate about creating **impactful AI/ML solutions** that drive busines
 
 ## 🛠️ Languages & Tools
 **Python** (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, PyCaret, NLTK, Seaborn, OpenCV)  
-**Databases** (MySQL, PostgreSQL)  
 **Platforms** (GCP, Linux, MATLAB)  
 
 ---
 
 ## 🌟 Let’s Connect
 - 📌 [LinkedIn](https://www.linkedin.com/in/aniiketbarphe/)  
-- 🐦 Twitter: [@aniket2065](https://twitter.com/aniket2065)  
 - 📂 GitHub: [aniiketbarphe](https://github.com/aniiketbarphe)  
 
 
