@@ -1,6 +1,6 @@
 ![Aniiket-Barphe-Github-Header-Image_Final](https://github.com/aniiketbarphe/aniiketbarphe/assets/84449238/af282ebc-f5b5-427c-9097-a07ee803b6d3)
 
-<h3 align="center">An experienced Data Scientist with a passion for creating impactful solutions through machine learning and analytics.</h3>
+<h3 align="center">👨‍💻 Grandmaster Data Scientist | 📊 AI/ML Innovator | ⚡ Driving Business Impact in Insurance, Energy & Meteorology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniiketbarphe&label=Profile%20views&color=0e75b6&style=flat" alt="aniiketbarphe" /> </p>
 
